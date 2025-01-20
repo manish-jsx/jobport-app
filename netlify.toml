@@ -1,9 +1,11 @@
 [build]
   publish = "/"
-  command = "npm install"
+  command = "npm ci"
 
-[[plugins]]
-  package = "@netlify/plugin-functions"
+[dev]
+  command = "npm start"
+  port = 8000
+  targetPort = 3000
 
 [template.environment]
   NETLIFY_CMS_OAUTH_PROVIDER = "github"
