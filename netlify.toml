@@ -12,6 +12,11 @@
   NETLIFY_CMS_OAUTH_CLIENT_ID = "Ov23liEilXsyPhBjM8IH"
   NETLIFY_CMS_OAUTH_CLIENT_SECRET = "ff4a8e07d21c35bf065e14732754b11568d06e9c"
 
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
 [[headers]]
   for = "/admin/*"
     [headers.values]
