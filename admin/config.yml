@@ -1,15 +1,13 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update
-  commit_messages:
-    create: 'Create {{collection}} "{{slug}}"'
-    update: 'Update {{collection}} "{{slug}}"'
-    delete: 'Delete {{collection}} "{{slug}}"'
-    uploadMedia: '[skip ci] Upload "{{path}}"'
-    deleteMedia: '[skip ci] Delete "{{path}}"'
+  name: github
+  repo: manish-jsx/jobport-app
+  branch: main
+  auth_endpoint: api/auth
+  base_url: https://api.netlify.com
 
-media_folder: "images/uploads" # Media files will be stored here
-public_folder: "/images/uploads" # The src attribute for uploaded media
+local_backend: true
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
 
 collections:
   - name: "jobs"

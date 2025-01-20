@@ -1,16 +1,16 @@
 [build]
   publish = "/"
-  command = "# no build command needed"
+  command = "npm install"
 
 [[plugins]]
-  package = "@netlify/plugin-netlify-cms"
+  package = "@netlify/plugin-functions"
 
 [template.environment]
   NETLIFY_CMS_OAUTH_PROVIDER = "github"
-  NETLIFY_CMS_OAUTH_CLIENT_ID = "your-github-oauth-client-id"
-  NETLIFY_CMS_OAUTH_CLIENT_SECRET = "your-github-oauth-client-secret"
+  NETLIFY_CMS_OAUTH_CLIENT_ID = "Ov23liEilXsyPhBjM8IH"
+  NETLIFY_CMS_OAUTH_CLIENT_SECRET = "ff4a8e07d21c35bf065e14732754b11568d06e9c"
 
 [[headers]]
   for = "/admin/*"
     [headers.values]
-    Basic-Auth = "admin:backfills" 
+    Basic-Auth = "admin:backfills"

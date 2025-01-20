@@ -1,0 +1,17 @@
+{
+  "name": "backfills-jobs",
+  "version": "1.0.0",
+  "description": "Backfills Jobs Admin Panel",
+  "scripts": {
+    "start": "npx netlify-cms-proxy-server",
+    "build": "echo 'No build required'"
+  },
+  "dependencies": {
+    "netlify-cms-app": "^2.15.72",
+    "netlify-cms-proxy-server": "^1.3.24"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
