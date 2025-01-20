@@ -57,7 +57,7 @@
         href="ffControlUtilities.ashx/resource3b7b.css?ty=st&amp;k=QQe3Srd18IDIu44opbVvarKxBxI4n2JogY%2Be2XI53N4%3D&amp;t=638514548302159991" />
     <meta property="og:title" content="Job Search" />
     <meta property="og:url" content="https://jobs.backfills.ai/" />
-    <meta property="og:description" content="Welcome to [Company Name]..." />
+    <meta property="og:description" content="Welcome to&#160;[Company Name]..." />
     <meta property="og:type" content="website" />
     <meta property="og:image"
         content="https://jobs.backfills.ai/webdocs/Backfills/CompanySettings/1/Social_Sharing_Logo/logo%20for%20ff%20490%20by%20275.png" />
@@ -69,6 +69,8 @@
     <title>
         Job Search
     </title>
+    <!-- Add this in the <head> section -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body>
@@ -328,7 +330,7 @@
                                                         <option selected="selected"
                                                             value="00000000-0000-0000-0000-000000000000">Any Location
                                                         </option>
-                                                        <option value="012923fd-e092-4562-897c-71851c7f99d4">Malta
+                                                        <option value="012923fd-e092-4562-897c-71851c7f99d4">Dubai
                                                         </option>
                                                         <option value="9e9ff121-53e4-48ec-b934-550d28777ace">Gozo
                                                         </option>
@@ -448,7 +450,7 @@
                                                                 <div id="ctl00_mainContentArea_CandidateAdvertSearchResults1_grdvwResults_ctl02_ctl00_sLocation"
                                                                     class="col-12&#32;col-md-4&#32;info">
                                                                     <i class="fas fa-map-marker-alt"
-                                                                        aria-hidden="true"></i>&nbsp;Malta
+                                                                        aria-hidden="true"></i>&nbsp;Dubai
                                                                 </div>
                                                                 <div class="col-12 col-md-4 info">
                                                                     <i class="fa fa-star"
@@ -551,7 +553,7 @@
                                                                 <div id="ctl00_mainContentArea_CandidateAdvertSearchResults1_grdvwResults_ctl03_ctl00_sLocation"
                                                                     class="col-12&#32;col-md-4&#32;info">
                                                                     <i class="fas fa-map-marker-alt"
-                                                                        aria-hidden="true"></i>&nbsp;Malta
+                                                                        aria-hidden="true"></i>&nbsp;Dubai
                                                                 </div>
                                                                 <div class="col-12 col-md-4 info">
                                                                     <i class="fa fa-star"
@@ -632,7 +634,7 @@
                                                                         <p>
                                                                             <span>We are looking for professional
                                                                                 drivers to join a well established
-                                                                                company in Malta. If interested, don’t
+                                                                                company in Dubai. If interested, don't
                                                                                 hesitate and apply! What is expected of
                                                                                 you? Ability to drive safely inside and
                                                                                 outside urban ...</span>
@@ -654,7 +656,7 @@
                                                                 <div id="ctl00_mainContentArea_CandidateAdvertSearchResults1_grdvwResults_ctl04_ctl00_sLocation"
                                                                     class="col-12&#32;col-md-4&#32;info">
                                                                     <i class="fas fa-map-marker-alt"
-                                                                        aria-hidden="true"></i>&nbsp;Malta
+                                                                        aria-hidden="true"></i>&nbsp;Dubai
                                                                 </div>
                                                                 <div class="col-12 col-md-4 info">
                                                                     <i class="fa fa-star"
@@ -757,7 +759,7 @@
                                                                 <div id="ctl00_mainContentArea_CandidateAdvertSearchResults1_grdvwResults_ctl05_ctl00_sLocation"
                                                                     class="col-12&#32;col-md-4&#32;info">
                                                                     <i class="fas fa-map-marker-alt"
-                                                                        aria-hidden="true"></i>&nbsp;Malta
+                                                                        aria-hidden="true"></i>&nbsp;Dubai
                                                                 </div>
                                                                 <div class="col-12 col-md-4 info">
                                                                     <i class="fa fa-star"
@@ -837,7 +839,7 @@
                                                                     <div class="jobItem__body">
                                                                         <p>
                                                                             <span>Our client, a leading distribution
-                                                                                company based in Malta, is looking for
+                                                                                company based in Dubai, is looking for
                                                                                 an enthusiastic Sales Administrator to
                                                                                 join their growing team. If you are
                                                                                 eager to join a dynamic sales team, and
@@ -1121,6 +1123,18 @@
     <script type="text/javascript" src="Content/Backfills/assets/js/retina.min.js"></script>
 
     <script type="text/javascript" src="Content/Backfills/assets/js/main5152.js?ver=1.0"></script>
+    <!-- Add this just before closing </body> tag -->
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 </body>
 
 

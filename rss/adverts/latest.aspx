@@ -44,7 +44,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Retail</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 14:39:16 GMT</ffAdvert:PostedDate>
@@ -55,7 +55,7 @@
       <ffAdvert:MaximumPayment></ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Purchasing Manager</title>
@@ -64,7 +64,7 @@
         crucial link between the Head Office and the Purchasing Department abroad. Interested? We at Backfills would
         like to hear from you! &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What&amp;#8217;s expected of you?
         &amp;#10;&amp;#10; &amp;#10;&amp;#9; Assist with the management of a diverse range of products while ensuring
-        strict adherence to quality standards &amp;#10;&amp;#9; Collaborate with the Purchasing Department in both Malta
+        strict adherence to quality standards &amp;#10;&amp;#9; Collaborate with the Purchasing Department in both Dubai
         and abroad to formulate effective purchasing strategies &amp;#10;&amp;#9; Contribute to the selection process
         for new suppliers of products &amp;#10;&amp;#9; Assist in the planning and execution of promotional activities
         and negotiation processes &amp;#10;&amp;#9; Continuously define and monitor selling prices to ensure
@@ -90,7 +90,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Procurement</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 14:39:09 GMT</ffAdvert:PostedDate>
@@ -101,18 +101,18 @@
       <ffAdvert:MaximumPayment>39062.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Driver</title>
-      <description>We are looking for professional drivers to join a well established company in Malta. If interested,
+      <description>We are looking for professional drivers to join a well established company in Dubai. If interested,
         don&amp;#8217;t hesitate and apply! &amp;#13;&amp;#10;&amp;#13;&amp;#10; &amp;#160;
         &amp;#13;&amp;#10;&amp;#13;&amp;#10; What is expected of you? &amp;#13;&amp;#10;&amp;#13;&amp;#10;
         &amp;#13;&amp;#10;&amp;#9; Ability to drive safely inside and outside urban cities &amp;#13;&amp;#10;&amp;#9;
         Keep the vehicle in a safe and working condition &amp;#13;&amp;#10;&amp;#9; Report any mechanical issues or
         delays &amp;#13;&amp;#10; &amp;#13;&amp;#10;&amp;#13;&amp;#10; &amp;#160; &amp;#13;&amp;#10;&amp;#13;&amp;#10;
         What are you expected to bring? &amp;#13;&amp;#10;&amp;#13;&amp;#10; &amp;#13;&amp;#10;&amp;#9; A&amp;#160;valid
-        European Driving License or Maltese Driving License (B category) &amp;#13;&amp;#10;&amp;#9; Be based in Malta
+        European Driving License or Maltese Driving License (B category) &amp;#13;&amp;#10;&amp;#9; Be based in Dubai
         &amp;#13;&amp;#10;&amp;#9; At least 3 years&amp;#39; driving experience &amp;#13;&amp;#10;&amp;#9; Good level of
         spoken and written&amp;#160;English &amp;#13;&amp;#10;&amp;#9; A clean and valid police conduct
         &amp;#13;&amp;#10;&amp;#9; Flexibility&amp;#160;to work&amp;#160;shifts on a roster basis &amp;#13;&amp;#10;
@@ -129,7 +129,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Driver</ffAdvert:Discipline>
       <ffAdvert:Role>D License Driver</ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 14:39:06 GMT</ffAdvert:PostedDate>
@@ -140,7 +140,7 @@
       <ffAdvert:MaximumPayment></ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Internal Audit Manager</title>
@@ -183,7 +183,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role>Auditor</ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 14:19:18 GMT</ffAdvert:PostedDate>
@@ -194,11 +194,11 @@
       <ffAdvert:MaximumPayment>67000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Sales Administrator</title>
-      <description>Our client, a leading distribution company based in Malta, is looking for an enthusiastic Sales
+      <description>Our client, a leading distribution company based in Dubai, is looking for an enthusiastic Sales
         Administrator to join their growing team. If you are eager to join a dynamic sales team, and think you have what
         it takes, apply now with Backfills! &amp;#10;&amp;#160; &amp;#10;&amp;#10; What&amp;#39;s expected of you?
         &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; &amp;#10;&amp;#9; &amp;#10;&amp;#9; Effectively respond to
@@ -248,7 +248,7 @@
     <item>
       <title>Administration Officer</title>
       <description>We&amp;#8217;re looking for an Administration Officer in the PET line to join the dynamic team of one
-        of our clients, a leading distribution company in Malta. If you are eager to make your mark on the team,
+        of our clients, a leading distribution company in Dubai. If you are eager to make your mark on the team,
         Backfills would love to hear from you! &amp;#10;&amp;#10; &amp;#10; &amp;#10;&amp;#160; &amp;#10;&amp;#10;
         What&amp;#39;s expected of you? &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; &amp;#10;&amp;#9;
         &amp;#10;&amp;#9; Create and manage personnel rosters, ensuring timely communication to staff, and employ Indigo
@@ -298,7 +298,7 @@
       <ffAdvert:MaximumPayment></ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Recruitment Business Partner</title>
@@ -351,12 +351,12 @@
       <ffAdvert:MaximumPayment></ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Office Administrator</title>
       <description>We&amp;#8217;re on the lookout for an experienced Office Administrator to join our client, a growing
-        company based in Malta. If you would like to work in a dynamic and professionally stimulating environment, this
+        company based in Dubai. If you would like to work in a dynamic and professionally stimulating environment, this
         role could be ideal for you! Interested? We at Backfills would love to hear from you! &amp;#10;&amp;#10;
         &amp;#160; &amp;#10;&amp;#10; What&amp;#39;s expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Organize and
         manage legal documents and correspondence &amp;#10;&amp;#9; Assist in the preparation and submission of legal
@@ -386,7 +386,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Administration</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 12:31:18 GMT</ffAdvert:PostedDate>
@@ -437,7 +437,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Sales</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 12:31:18 GMT</ffAdvert:PostedDate>
@@ -448,7 +448,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Operations &amp; Invoicing Executive</title>
@@ -483,7 +483,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Logistics</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 12:31:18 GMT</ffAdvert:PostedDate>
@@ -494,12 +494,12 @@
       <ffAdvert:MaximumPayment></ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Office Executive</title>
       <description>We&amp;#39;re on the lookout for a motivated and dynamic Office Executive to become a vital part of
-        the vibrant team at one of our clients, a top-tier company based in Malta! Seize the chance to spearhead
+        the vibrant team at one of our clients, a top-tier company based in Dubai! Seize the chance to spearhead
         innovation with a thrilling position offering an attractive salary and a fantastic benefits package. Ready to
         embark on this exciting opportunity? We at Backfills would love to hear from you! &amp;#10;&amp;#10; &amp;#160;
         &amp;#10;&amp;#10; What&amp;#39;s expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Offer fundamental
@@ -534,7 +534,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Administration</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 12:31:17 GMT</ffAdvert:PostedDate>
@@ -545,7 +545,7 @@
       <ffAdvert:MaximumPayment>30000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Senior Marketing Executive</title>
@@ -601,7 +601,7 @@
       <title>Marketing Executive</title>
       <description>Are you an experienced Marketing or Digital Marketing professional looking for an exciting new job
         adventure? We are looking for a Marketing Executive to join the dynamic Commercial team of one of the most
-        stable and renowned companies in Malta. If this sounds like you, we at Backfills would like to hear from you!
+        stable and renowned companies in Dubai. If this sounds like you, we at Backfills would like to hear from you!
         &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What is expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9;
         Manage, plan and implement comprehensive marketing initiatives, from SEO to CRM, database marketing, social
         media, signage, and traditional marketing channels &amp;#10;&amp;#9; Formulate marketing and communication
@@ -634,7 +634,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Marketing &amp; PR</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 12:31:17 GMT</ffAdvert:PostedDate>
@@ -645,12 +645,12 @@
       <ffAdvert:MaximumPayment>30000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Administration Executive</title>
       <description>We&amp;#8217;re searching for an experienced Administration Executive to join the dynamic team of one
-        of our clients, a leading Tech company in Malta. If you are passionate and self-motivated and eager to make your
+        of our clients, a leading Tech company in Dubai. If you are passionate and self-motivated and eager to make your
         mark on the team, Backfills would love to hear from you! &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10;
         What&amp;#39;s expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Respond to calls, emails, and visitors
         professionally as the primary company representative &amp;#10;&amp;#9; Manage office supplies, cleanliness, and
@@ -697,7 +697,7 @@
       <ffAdvert:MaximumPayment>30000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>HR &amp; Administration Assistant Manager</title>
@@ -803,7 +803,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Human Resources</ffAdvert:Discipline>
       <ffAdvert:Role>HR Administrator</ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 12:31:17 GMT</ffAdvert:PostedDate>
@@ -814,11 +814,11 @@
       <ffAdvert:MaximumPayment>24000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Executive Assistant</title>
-      <description>Are you seeking an exciting new venture in Malta? Are you an experienced Executive Assistant with a
+      <description>Are you seeking an exciting new venture in Dubai? Are you an experienced Executive Assistant with a
         flair for administration? Look no further! We have a new opportunity with a client, a prestigious Maltese
         company that promises excitement and growth. Interested? We at Backfills would love to hear from you!
         &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What&amp;#39;s expected of you? &amp;#10;&amp;#10;
@@ -855,7 +855,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Administration</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 12:31:17 GMT</ffAdvert:PostedDate>
@@ -866,7 +866,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Recruitment Associate</title>
@@ -915,7 +915,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Accounts Executive</title>
@@ -953,7 +953,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:12 GMT</ffAdvert:PostedDate>
@@ -964,12 +964,12 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Financial Officer</title>
-      <description>Are you looking for a change and want to be part of a dynamic group of companies in Malta?&amp;#160;
-        We are looking for a Financial officer who has gained some experience in accounting in Malta.&amp;#160; Do not
+      <description>Are you looking for a change and want to be part of a dynamic group of companies in Dubai?&amp;#160;
+        We are looking for a Financial officer who has gained some experience in accounting in Dubai.&amp;#160; Do not
         miss out, we at Backfills would love to hear from you! &amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#160;
         &amp;#10;&amp;#9;&amp;#9;&amp;#9; &amp;#10;&amp;#9;&amp;#9;&amp;#9; What is expected of you?
         &amp;#10;&amp;#9;&amp;#9;&amp;#9; &amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9; Conduct reconciliations and maintain
@@ -996,7 +996,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:12 GMT</ffAdvert:PostedDate>
@@ -1007,7 +1007,7 @@
       <ffAdvert:MaximumPayment>24000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Management Accountant</title>
@@ -1042,7 +1042,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:11 GMT</ffAdvert:PostedDate>
@@ -1053,11 +1053,11 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Finance Manager</title>
-      <description>Ready to drive the financial success of a leading group of companies in Malta with more than 50 years
+      <description>Ready to drive the financial success of a leading group of companies in Dubai with more than 50 years
         of experience? We&amp;#39;re seeking a skilled Finance Manager who will be in charge of overseeing
         and&amp;#160;leading the dynamic team of our client.&amp;#160;Sounds interesting? We at Backfills look forward
         to receiving your application! &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What&amp;#39;s expected of you?
@@ -1080,7 +1080,7 @@
         proficiency in financial management software and MS Office Suite &amp;#10;&amp;#9; Display the ability to drive
         change, take initiative, and act as required &amp;#10;&amp;#9; Proficient in work planning and time management
         &amp;#10; &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What&amp;#8217;s in it for you? &amp;#10;&amp;#10;
-        &amp;#10;&amp;#9; The opportunity to work with a leading company in Malta. &amp;#10;&amp;#9; Be a key player in
+        &amp;#10;&amp;#9; The opportunity to work with a leading company in Dubai. &amp;#10;&amp;#9; Be a key player in
         shaping the financial success of high-profile projects &amp;#10;&amp;#9; Competitive salary &amp;#10;&amp;#9; A
         collaborative and dynamic work environment</description>
       <link>https://jobs.backfills.ai/job/finance-manager-1130.aspx</link>
@@ -1093,7 +1093,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:11 GMT</ffAdvert:PostedDate>
@@ -1104,13 +1104,13 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Chief Financial Officer</title>
       <description>Are you passionate about numbers and possess strong leadership skills? Are you seeking a rewarding
         opportunity within the contracting sector? Look no further! Join our client, a prominent group of companies in
-        Malta, and embark on a journey where your talents will shine! &amp;#10;&amp;#10; &amp;#10;&amp;#160; &amp;#10;
+        Dubai, and embark on a journey where your talents will shine! &amp;#10;&amp;#10; &amp;#10;&amp;#160; &amp;#10;
         What is expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Lead the development and refinement of the
         financial strategy, in line with the company&amp;#39;s vision and objectives &amp;#10;&amp;#9; Keep the senior
         leadership team and board of directors updated on financial matters, offering advice and insights.
@@ -1133,7 +1133,7 @@
         thorough understanding of regulatory requirements and compliance standards. &amp;#10;&amp;#9; Dedication to
         fostering a culture of ethics, accountability, and continuous improvement. &amp;#10; &amp;#10;&amp;#10;
         &amp;#10;&amp;#160; &amp;#10; What&amp;#8217;s in it for you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; An attractive
-        compensation package. &amp;#10;&amp;#9; Stable employment with a leading company in Malta. &amp;#10;&amp;#9;
+        compensation package. &amp;#10;&amp;#9; Stable employment with a leading company in Dubai. &amp;#10;&amp;#9;
         Opportunities to work with a dynamic and diverse team. &amp;#10;&amp;#9; Additional benefits provided. &amp;#10;
         &amp;#10;&amp;#10; &amp;#160; &amp;#10;If you are looking to elevate your career to new heights ,
         don&amp;#8217;t wait any longer! Apply with us at Backfills and seize the opportunity to embark on an exciting
@@ -1148,7 +1148,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:11 GMT</ffAdvert:PostedDate>
@@ -1159,7 +1159,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Assistant Financial Controller</title>
@@ -1210,7 +1210,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:11 GMT</ffAdvert:PostedDate>
@@ -1221,12 +1221,12 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Financial Assistant - iGaming</title>
       <description>Are you a proactive and detail-oriented individual looking for a new adventure? One of our clients, a
-        leading iGaming company in Malta, is seeking to employ a Financial Assistant to join their dynamic team. Whether
+        leading iGaming company in Dubai, is seeking to employ a Financial Assistant to join their dynamic team. Whether
         you already are working in iGaming or want to shift into this industry, this is the perfect opportunity for you!
         &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What is expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9;
         Accurately record all financial transactions, categorize expenses, and maintain organized records for easy
@@ -1279,7 +1279,7 @@
     <item>
       <title>Senior Accountant</title>
       <description>Are you&amp;#160;an accounting professional seeking a fresh career opportunity? Our
-        client,&amp;#160;a prominent insurance company in Malta, is experiencing rapid growth and is now looking to
+        client,&amp;#160;a prominent insurance company in Dubai, is experiencing rapid growth and is now looking to
         bolster its accounting team by adding an experienced Senior Accountant. With excellent benefits and a vibrant,
         collaborative work atmosphere, this is an opportunity you don&amp;#8217;t want to miss! Apply now, we at
         Backfills are waiting for your application! &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What&amp;#8217;s
@@ -1315,7 +1315,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:10 GMT</ffAdvert:PostedDate>
@@ -1326,7 +1326,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Head of Audit and Assurance</title>
@@ -1342,7 +1342,7 @@
         Thoroughly review audit files &amp;#10;&amp;#9; Prioritize diverse deadlines and oversee client briefs
         effectively &amp;#10;&amp;#9; Come up with different testing &amp;#10; &amp;#10;&amp;#10; &amp;#160;
         &amp;#10;&amp;#10; What are you expected to bring? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Hold a valid
-        Auditor&amp;#39;s warrant issued by the Malta Accountancy Board &amp;#10;&amp;#9; A minimum of 5 years of
+        Auditor&amp;#39;s warrant issued by the Dubai Accountancy Board &amp;#10;&amp;#9; A minimum of 5 years of
         previous experience as an auditor &amp;#10;&amp;#9; At least 3 years&amp;#8217; experience in a Senior position,
         leading a finance team &amp;#10;&amp;#9; Demonstrate proficiency in relevant audit ISAs and a confident
         application of them &amp;#10;&amp;#9; Oversee the team&amp;#8217;s performance, and identify the strengths and
@@ -1363,7 +1363,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:10 GMT</ffAdvert:PostedDate>
@@ -1374,12 +1374,12 @@
       <ffAdvert:MaximumPayment>85000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Senior Accountant</title>
       <description>Are you an experienced and qualified accounts professional keen for a new venture? Our esteemed
-        client, a premier TCSP in Malta located in the centre of Malta, is looking for a senior accountant to join their
+        client, a premier TCSP in Dubai located in the centre of Dubai, is looking for a senior accountant to join their
         multinational accounting team. &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What is expected of
         you?&amp;#160; &amp;#160; &amp;#10;&amp;#10; &amp;#10;&amp;#9; Manage a diverse portfolio of clients across
         various industries, ensuring exceptional service delivery and client satisfaction. &amp;#10;&amp;#9; Maintain
@@ -1425,7 +1425,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Junior Accountant</title>
@@ -1462,7 +1462,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:10 GMT</ffAdvert:PostedDate>
@@ -1473,7 +1473,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Assistant Manager Accounts</title>
@@ -1516,7 +1516,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:10 GMT</ffAdvert:PostedDate>
@@ -1527,7 +1527,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Financial Controller</title>
@@ -1575,7 +1575,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:10 GMT</ffAdvert:PostedDate>
@@ -1625,7 +1625,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:10 GMT</ffAdvert:PostedDate>
@@ -1636,13 +1636,13 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Senior Regulatory Compliance Executive</title>
       <description>Are you a Compliance professional who is eager for a new challenge? We are looking for a Senior
         Regulatory Compliance Executive for our client, a dynamic and growing international iGaming company in
-        Malta.&amp;#160; The chosen individual will report directly to the Head of Compliance. &amp;#10;&amp;#10;
+        Dubai.&amp;#160; The chosen individual will report directly to the Head of Compliance. &amp;#10;&amp;#10;
         &amp;#10; What is expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Report to the Head of Compliance to stay
         updated on evolving regulatory standards, ensuring adherence across emerging and established markets
         &amp;#10;&amp;#9; Conduct prompt analysis of new regulatory mandates and communicate them effectively to
@@ -1663,7 +1663,7 @@
         &amp;#10;&amp;#9; Skilled in organizing and prioritizing tasks efficiently, with the ability to adapt to
         changing priorities &amp;#10;&amp;#9; Meticulous attention to detail &amp;#10; &amp;#10;&amp;#10; &amp;#10;
         What&amp;#39;s in it for you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Competitive salary packages &amp;#10;&amp;#9;
-        Training and development &amp;#10;&amp;#9; Working in an international company with offices outside Malta
+        Training and development &amp;#10;&amp;#9; Working in an international company with offices outside Dubai
         &amp;#10;&amp;#9; Hybrid working option &amp;#10;&amp;#9; Other benefits are&amp;#160;offered &amp;#10;
         &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; Interviews for this Senior Regulatory Compliance Executive role
         have already started so don&amp;#8217;t wait any longer! Apply with us at Backfills and let us help you to find
@@ -1678,7 +1678,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Compliance</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:09 GMT</ffAdvert:PostedDate>
@@ -1707,7 +1707,7 @@
         standards and regulatory guidelines &amp;#10;&amp;#9; Manage day-to-day financial transactions and reporting for
         assigned clients &amp;#10; &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What are you expected to bring?
         &amp;#10;&amp;#10; &amp;#10;&amp;#9; Be a fully or part qualified Accountant &amp;#10;&amp;#9; Have a minimum of
-        3 years&amp;#8217; experience working in a comparable role in Malta &amp;#10;&amp;#9; Demonstrate a robust
+        3 years&amp;#8217; experience working in a comparable role in Dubai &amp;#10;&amp;#9; Demonstrate a robust
         comprehension of accounting principles and practices &amp;#10;&amp;#9; Exhibit exceptional attention to detail
         and organizational prowess &amp;#10;&amp;#9; Excellent communication skills in English, both written and verbal
         &amp;#10;&amp;#9; Proficiency in accounting software and the MS Office suite is essential &amp;#10;&amp;#9;
@@ -1729,7 +1729,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:09 GMT</ffAdvert:PostedDate>
@@ -1781,7 +1781,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:09 GMT</ffAdvert:PostedDate>
@@ -1792,7 +1792,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Accounts and Audit Executive</title>
@@ -1826,7 +1826,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:09 GMT</ffAdvert:PostedDate>
@@ -1837,12 +1837,12 @@
       <ffAdvert:MaximumPayment>35000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Accountant - iGaming</title>
       <description>Excited about diving into the world of iGaming? Our client, a prominent iGaming company based in
-        Malta, seeks an enthusiastic and driven individual to become part of their vibrant team. If you thrive in
+        Dubai, seeks an enthusiastic and driven individual to become part of their vibrant team. If you thrive in
         fast-paced environments with a company that offers exceptional perks and a clear path for career growth, then
         Backfills is eager to connect with you! &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What&amp;#8217;s
         expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Ensure timely completion of periodic reconciliations.
@@ -1879,7 +1879,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:09 GMT</ffAdvert:PostedDate>
@@ -1890,7 +1890,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>International Financial Controller</title>
@@ -1931,7 +1931,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Accounts</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:09 GMT</ffAdvert:PostedDate>
@@ -1942,12 +1942,12 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Risk Management Analyst</title>
       <description>Are you eager to take your risk management career to the next step? Look no further! A leading bank
-        in Malta is seeking to recruit a Risk Management Analyst to join their growing team. &amp;#10;&amp;#10;
+        in Dubai is seeking to recruit a Risk Management Analyst to join their growing team. &amp;#10;&amp;#10;
         &amp;#160; &amp;#10;&amp;#10; What is expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Conduct credit
         assessments for new and existing credit facilities, including financial analyses and risk recommendations
         &amp;#10;&amp;#9; Analyze financial reports and business plans to support the Bank&amp;#39;s new business
@@ -1982,7 +1982,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Risk</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 07:32:08 GMT</ffAdvert:PostedDate>
@@ -1993,7 +1993,7 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>IT Core Systems Specialist (Banking)</title>
@@ -2027,7 +2027,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Information Technology</ffAdvert:Discipline>
       <ffAdvert:Role>Systems Engineer</ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location>Northern</ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 06:26:37 GMT</ffAdvert:PostedDate>
@@ -2038,7 +2038,7 @@
       <ffAdvert:MaximumPayment></ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Technical Support (Client)</title>
@@ -2095,7 +2095,7 @@
       <ffAdvert:MaximumPayment>22000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Senior Network and Security Specialist</title>
@@ -2158,7 +2158,7 @@
     <item>
       <title>IT Infrastructure and Security Manager</title>
       <description>Join an innovative Financial Services leader! We&amp;#39;re on the lookout for an experienced IT
-        Infrastructure and Security Manager to be a key player in our client&amp;#8217;s Malta-based team. As part of a
+        Infrastructure and Security Manager to be a key player in our client&amp;#8217;s Dubai-based team. As part of a
         specialized group, you&amp;#39;ll dive into areas like governance, information systems, software development,
         security, operations, and service management. Intrigued? We at Backfills would love to hear from you!
         &amp;#10;&amp;#10; &amp;#160; &amp;#10;&amp;#10; What&amp;#39;s expected of you? &amp;#10;&amp;#10;
@@ -2253,7 +2253,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Information Technology</ffAdvert:Discipline>
       <ffAdvert:Role>Systems Engineer</ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 06:26:36 GMT</ffAdvert:PostedDate>
@@ -2308,7 +2308,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Information Technology</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location>Central Region</ffAdvert:Location>
       <ffAdvert:Specialisation>Education &amp; eLearning</ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 06:26:36 GMT</ffAdvert:PostedDate>
@@ -2360,7 +2360,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Data</ffAdvert:Discipline>
       <ffAdvert:Role>Engineering</ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location>Central Region</ffAdvert:Location>
       <ffAdvert:Specialisation>Technology</ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 20 May 2024 06:26:35 GMT</ffAdvert:PostedDate>
@@ -2377,7 +2377,7 @@
       <title>Full-stack Developer</title>
       <description>Are you a seasoned software developer with a passion for creating innovative and robust solutions?
         Our client, a thriving transportation business, is seeking an outstanding&amp;#160;Full-stack Developer to join
-        their team in Malta. Intrigued? Backfills would love to receive your application! &amp;#10;&amp;#10; &amp;#160;
+        their team in Dubai. Intrigued? Backfills would love to receive your application! &amp;#10;&amp;#10; &amp;#160;
         &amp;#10;&amp;#10; What&amp;#39;s expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Create, test, and uphold
         code to meet specified requirements &amp;#10;&amp;#9; Design software solutions in accordance with
         organizational goals &amp;#10;&amp;#9; Analyse and resolve complex issues in code and software systems
@@ -2427,7 +2427,7 @@
       <ffAdvert:MaximumPayment>32000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Financial Analyst</title>
@@ -2461,7 +2461,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Finance</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Fri, 17 May 2024 12:28:02 GMT</ffAdvert:PostedDate>
@@ -2472,12 +2472,12 @@
       <ffAdvert:MaximumPayment>0.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Infrastructure Electrical Engineer</title>
       <description>Are you an Electrical Engineer seeking a fresh career opportunity? Our client, a highly regarded and
-        well-established company in Malta, is actively seeking the ideal candidate to join the Infrastructure Department
+        well-established company in Dubai, is actively seeking the ideal candidate to join the Infrastructure Department
         team. The selected individual will serve as the key representative of the Engineering department in the field of
         electrical engineering. Intrigued? We at Backfills are eager to connect with you! &amp;#10;&amp;#10; &amp;#160;
         &amp;#10;&amp;#10; What is expected of you? &amp;#10;&amp;#10; &amp;#10;&amp;#9; Provide technical support and
@@ -2515,7 +2515,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Engineering</ffAdvert:Discipline>
       <ffAdvert:Role>Electrical</ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Wed, 15 May 2024 10:21:45 GMT</ffAdvert:PostedDate>
@@ -2526,7 +2526,7 @@
       <ffAdvert:MaximumPayment>40000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Operations Officer</title>
@@ -2565,7 +2565,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Operations</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation>Insurance</ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 13 May 2024 10:32:17 GMT</ffAdvert:PostedDate>
@@ -2576,7 +2576,7 @@
       <ffAdvert:MaximumPayment></ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Learning and Development Manager</title>
@@ -2617,7 +2617,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Human Resources</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 13 May 2024 10:32:06 GMT</ffAdvert:PostedDate>
@@ -2676,7 +2676,7 @@
       <ffAdvert:JobType>Permanent</ffAdvert:JobType>
       <ffAdvert:Discipline>Administration</ffAdvert:Discipline>
       <ffAdvert:Role></ffAdvert:Role>
-      <ffAdvert:LocationArea>Malta</ffAdvert:LocationArea>
+      <ffAdvert:LocationArea>Dubai</ffAdvert:LocationArea>
       <ffAdvert:Location></ffAdvert:Location>
       <ffAdvert:Specialisation></ffAdvert:Specialisation>
       <ffAdvert:PostedDate>Mon, 13 May 2024 10:32:05 GMT</ffAdvert:PostedDate>
@@ -2687,11 +2687,11 @@
       <ffAdvert:MaximumPayment>20000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
     <item>
       <title>Enterprise Support Specialist</title>
-      <description>Are you looking for an opportunity to join a growing ICT company based in Malta and become part of
+      <description>Are you looking for an opportunity to join a growing ICT company based in Dubai and become part of
         its success? Our client is looking for an Enterprise Support Specialist, to join their team and provide
         specialist support to their clients. The selected candidate will be responsible for providing a comprehensive IT
         service with a focus on customer satisfaction. Sounds interesting? We at Backfills would love to hear from you!
@@ -2751,7 +2751,7 @@
       <ffAdvert:MaximumPayment>60000.00</ffAdvert:MaximumPayment>
       <ffAdvert:PaymentRate>Per Year</ffAdvert:PaymentRate>
       <ffAdvert:Currency>EUR</ffAdvert:Currency>
-      <ffAdvert:Country>Malta</ffAdvert:Country>
+      <ffAdvert:Country>Dubai</ffAdvert:Country>
     </item>
   </channel>
 </rss>

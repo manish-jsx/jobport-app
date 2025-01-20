@@ -1,0 +1,16 @@
+[build]
+  publish = "/"
+  command = "# no build command needed"
+
+[[plugins]]
+  package = "@netlify/plugin-netlify-cms"
+
+[template.environment]
+  NETLIFY_CMS_OAUTH_PROVIDER = "github"
+  NETLIFY_CMS_OAUTH_CLIENT_ID = "your-github-oauth-client-id"
+  NETLIFY_CMS_OAUTH_CLIENT_SECRET = "your-github-oauth-client-secret"
+
+[[headers]]
+  for = "/admin/*"
+    [headers.values]
+    Basic-Auth = "admin:backfills" 
