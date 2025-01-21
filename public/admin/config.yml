@@ -2,6 +2,7 @@ backend:
   name: github
   repo: manish-jsx/jobport-app
   branch: main
+  local_backend: true
   base_url: https://jobs.backfills.ai/
   auth_endpoint: oauth
 media_folder: "images/uploads"
